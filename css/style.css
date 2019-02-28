@@ -1,3 +1,13 @@
 body{
 	background-color: grey;
 }
+
+.strong {
+	width: 100px;
+	height: 100px;
+	background-color: green;
+	transition: background-color 1s;
+}
+.strong.red{
+	background-color: red;
+}
