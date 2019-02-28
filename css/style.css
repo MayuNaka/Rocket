@@ -2,12 +2,12 @@ body{
 	background-color: grey;
 }
 
-.strong {
+.beStrong {
 	width: 100px;
 	height: 100px;
 	background-color: green;
 	transition: background-color 1s;
 }
-.strong.red{
+.beStrong.red{
 	background-color: red;
 }

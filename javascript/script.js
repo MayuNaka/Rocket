@@ -1,3 +1,13 @@
+// Comments in a row, for explaining what a function does
+/*
+Comments in 
+more than one row
+*/
+
+var learningcurve = function () {
+	document.getElementById('cool').className = 'cool red';
+}
+
 var sayMyName = function (name) {
 	alert('My name is: '+name)
 
